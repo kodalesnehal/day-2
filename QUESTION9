@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html>
+<body>
+
+    <script>
+        var a="kodalesnehal@gmail.com"
+        var b=a.search("@");
+        if (b==-1) 
+        {document.write("not exists");}
+        else
+        { document.write("exists")}
+
+
+
+    </script>
+
+            
+
+</body>
+</html>
