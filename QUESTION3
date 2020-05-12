@@ -1,0 +1,14 @@
+<html>
+<body>
+
+<h2>NAME IS HIDDEN</h2>
+
+<h2>CLICK ON DISPLAY<h2>
+
+
+<p id="a" style="display:none">Snehal Kodale</p>
+
+<button type="button" onclick="document.getElementById('a').style.display='block'">CLICK ON HERE</button>
+
+</body>
+</html>
