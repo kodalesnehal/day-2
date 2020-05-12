@@ -1,0 +1,10 @@
+<!DOCTYPE html>
+<html>
+<body>
+    <p id="myname"></p>
+
+    <button type="button" onclick='document.getElementById("myname").innerHTML="Snehal Kodale">Click here</button>
+            
+
+</body>
+</html>
