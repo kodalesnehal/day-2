@@ -1,0 +1,14 @@
+<!DOCTYPE html>
+<html>
+<body>
+    
+    <script>
+        var p=[50,65,29,16,54,49,90,101,28,5];
+       var q= p.sort(function(p,q){return p-q});
+       document.write(q);
+    </script>
+
+            
+
+</body>
+</html>
